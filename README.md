@@ -6,6 +6,6 @@ Adaptive is a virtual graph database that aggregrates inputs from distributed so
 
 ![Layers](/../media/gif/layers.gif?raw=true "Layers")
 
-The graph data structure enables a web interface which can run queries across entire cities, generate reports and policy assessments, and use urban economic models, like the Monocentric Model shown below, to demonstrate the influence of policy on urban form.
+The graph data structure enables a web interface which can run queries across entire cities, generate reports and policy assessments, and use urban economic models, like the Monocentric Model shown below, to demonstrate how markets and policy inform the urban landscape.
 
 ![The Monocentric Model](/../media/gif/mono.gif?raw=true "The Monocentric Model")
