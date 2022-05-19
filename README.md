@@ -1,4 +1,4 @@
-## A web prototype for an urban modeling engine
+## A web prototype for a new urban modeling engine
 
 Javascript / React / THREE.js
 
