@@ -2,7 +2,7 @@
 
 React / THREE.js
 
-Adaptive is a virtual graph database that aggregrates inputs from distributed sources and gives them a common data model, enabling urban data of all shapes and sizes to be connected, retrieved, and analyzed in a unified interface.
+Adaptive is a virtual graph database that aggregates inputs from distributed sources and gives them a common data model, enabling urban data of all shapes and sizes to be connected, retrieved, and analyzed in a unified interface.
 
 ![Layers](/../media/gif/layers.gif?raw=true "Layers")
 
